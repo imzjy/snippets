@@ -4,6 +4,7 @@ $sudo apt-get install python-pip
 $sudo pip install tornado
 
 [How to run the tornado server]
+$python server.py
 
 ------server.py---------
 import tornado.httpserver
@@ -24,5 +25,4 @@ if __name__ == "__main__":
   tornado.ioloop.IOLoop.instance.start()
 -------------------------
 
-$python server.py
 
