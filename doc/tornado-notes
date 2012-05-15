@@ -3,6 +3,9 @@ $sudo apt-get install python
 $sudo apt-get install python-pip
 $sudo pip install tornado
 
+[How to install the boto - Amazon AWS Library]
+$sudo pip install boto
+
 [How to run the tornado server]
 $python server.py
 
