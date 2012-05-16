@@ -6,6 +6,9 @@ $sudo pip install tornado
 [How to install the boto - Amazon AWS Library]
 $sudo pip install boto
 
+[How to load the APIServer in Eclipse]
+File->Import...->General->File System
+
 [How to run the tornado server]
 $python server.py
 
