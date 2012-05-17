@@ -9,7 +9,11 @@ class MainHandler(tornado.web.RequestHandler):
         
     def post(self):
         req = self.request
-        url = req.arguments["input-url"][0]
+        url = req.arguments["input-url"][0].strip()
+        if(not 
+           (url.startswith("http://") or url.startswith("https://"))):
+            url = "http://" + url
+        
         f = urllib2.urlopen(url)
         self.write(f.read())
         
@@ -20,5 +24,5 @@ application = tornado.web.Application([
 
 if __name__ == "__main__":
     http_server = tornado.httpserver.HTTPServer(application)
-    http_server.listen(8080)
+    http_server.listen(8001)
     tornado.ioloop.IOLoop.instance().start()
