@@ -1,6 +1,6 @@
 ===Short term works===
-1,fix the bug of export csv file with , in session attributes
-3.remap port 80 to the ubuntu guest os.
+*fix the list error report bug
+*fix the bug of export csv file with , in session attributes
 
 
 
