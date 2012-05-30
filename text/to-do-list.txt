@@ -1,5 +1,4 @@
 ===Short term works===
-*fix the list error report bug
 *fix the bug of export csv file with , in session attributes
 
 
