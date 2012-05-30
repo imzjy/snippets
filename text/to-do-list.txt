@@ -1,0 +1,24 @@
+===Short term works===
+1,fix the bug of export csv file with , in session attributes
+3.remap port 80 to the ubuntu guest os.
+
+
+
+
+===Long-term works===
+1,Unix Network Programming(chapter 1.5)   ; Unix Standards
+2,APUE Chapter 8
+3,write a program recording screen & respondent face.
+
+
+
+
+===Choose one of project, dig into it, know it thoroughly===
+1,MRC_WEB
+
+
+
+===Techical To Learn===
+Python supervisord
+nginx
+Linux daemon process
