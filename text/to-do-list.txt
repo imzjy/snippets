@@ -1,5 +1,6 @@
 ===Short term works===
 Fix the bug of export csv file with , in session attributes
+python trackback, how to wirte a error.html
 
 
 
