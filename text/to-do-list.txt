@@ -1,0 +1,26 @@
+===Short term works===
+Fix the bug of export csv file with , in session attributes
+
+
+
+
+===Long-term works===
+1,Unix Network Programming(chapter 1.5)   ; Unix Standards
+2,APUE Chapter 8
+3,write a program recording screen & respondent face.
+4,create a github project called coreutils-ex which contains handy tools, such as lstree.
+5,write quick and dirty lstree which list a directory as a tree view.
+
+
+
+
+===Choose one of project, dig into it, know it thoroughly===
+1,MRC_WEB
+
+
+
+===Techical To Learn===
+Linux daemon process
+Python supervisord
+nginx
+lua programming
