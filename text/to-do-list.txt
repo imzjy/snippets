@@ -20,4 +20,5 @@ git for temp work
 Linux daemon process
 Python supervisord
 nginx
-http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html
+http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.htmlfirst change 
+second changes 
