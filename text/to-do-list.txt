@@ -1,22 +1,18 @@
 ===Short term works===
-Fix the bug of export csv file with , in session attributes
-python trackback, how to wirte a error.html
-
-
+git for temp work
 
 
 ===Long-term works===
-1,Unix Network Programming(chapter 1.5)   ; Unix Standards
-2,APUE Chapter 8
+1,lua programming
 3,write a program recording screen & respondent face.
-4,create a github project called coreutils-ex which contains handy tools, such as lstree.
-5,write quick and dirty lstree which list a directory as a tree view.
-
+5,write a linux shell dictionary, lean the syntax from git, such dict good will show good explain. 
+6,allow user extend the dictonary data.
 
 
 
 ===Choose one of project, dig into it, know it thoroughly===
 1,MRC_WEB
+2,change event log to text-based log
 
 
 
@@ -24,4 +20,4 @@ python trackback, how to wirte a error.html
 Linux daemon process
 Python supervisord
 nginx
-lua programming
+http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html
