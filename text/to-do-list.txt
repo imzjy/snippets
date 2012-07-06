@@ -1,5 +1,6 @@
 ===Short term works===
-git for temp work
+1,git for temp work
+2,write a example which send message to S3
 
 
 ===Long-term works===
@@ -20,5 +21,4 @@ git for temp work
 Linux daemon process
 Python supervisord
 nginx
-http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.htmlfirst change 
-second changes 
+http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html
