@@ -1,14 +1,18 @@
 ===Short term works===
-1,git for temp work
-2,write a example which send message to S3
+1, G2 fast feedback
+2, G2 UI update
+2, Fix the GitHub tutorial
+3,rewrite the recording.js using the async instead of timer
+
 
 
 ===Long-term works===
+1,http://marklodato.github.com/visual-git-guide/index-zh-cn.html  //write a blog which shows the difference between reset and checkout.
 1,lua programming
 3,write a program recording screen & respondent face.
 5,write a linux shell dictionary, lean the syntax from git, such dict good will show good explain. 
 6,allow user extend the dictonary data.
-
+7,learn OpenCV, and apply it to the real.
 
 
 ===Choose one of project, dig into it, know it thoroughly===
@@ -18,7 +22,4 @@
 
 
 ===Techical To Learn===
-Linux daemon process
 Python supervisord
-nginx
-http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html
